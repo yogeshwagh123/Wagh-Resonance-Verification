@@ -2,6 +2,14 @@ SOVEREIGN IP WATERMARK: WAGH-SOLAR-2026-SPANDA
 
 This file certifies the forensic statistical signatures of the 9,601-record computational audit performed by Yogesh Anant Wagh.
 
+COVERED DATASETS:
+
+helios_data_actual.csv
+
+bio_data_actual.csv
+
+Shankar_Final_Verification_9601.csv
+
 PRIMARY FORENSIC COORDINATES:
 
 Record Count: 9,601 (Synchronized)
