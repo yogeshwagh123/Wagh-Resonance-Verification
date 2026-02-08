@@ -1,6 +1,6 @@
 LICENSE: CREATIVE COMMONS ATTRIBUTION-NONCOMMERCIAL-NO-DERIVATIVES 4.0 INTERNATIONAL (CC BY-NC-ND 4.0)
 
-This repository, including all datasets (helios_data_actual.csv, bio_data_actual.csv, data.csv), is provided under the CC BY-NC-ND 4.0 license.
+This repository, including all datasets (helios_data_actual.csv, bio_data_actual.csv, Shankar_Final_Verification_9601.csv), is provided under the CC BY-NC-ND 4.0 license.
 
 TERMS OF USE:
 
