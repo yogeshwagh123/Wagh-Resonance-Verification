@@ -1,8 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this dataset or refer to the Wagh Proteomic Framework, please cite it as follows:"
-authors:
-
-family-names: Wagh
+authors:family-names: Wagh
 given-names: Yogesh Anant
 title: "Solar-Carbon Resonance at the 2026 Solar Maximum: Structural Validation via Non-Linear Magnetic Flux Derivatives"
 version: 1.0.0
@@ -10,14 +8,4 @@ doi: 10.31223/X.XXXXX  # Replace with EarthArxiv DOI once assigned
 date-released: 2026-02-08
 url: "https://www.google.com/search?q=https://github.com/yogeshwagh123/Wagh-Resonance-Verification"
 repository-code: "https://www.google.com/search?q=https://github.com/yogeshwagh123/Wagh-Resonance-Verification"
-keywords:
-
-Solar-Carbon Resonance
-
-Cardiac Autonomic Variability
-
-Magnetic Jerk
-
-2026 Solar Maximum
-
-Sovereign IP
+keywords:"Solar-Carbon Resonance""Cardiac Autonomic Variability""Magnetic Jerk""2026 Solar Maximum""Sovereign IP"
